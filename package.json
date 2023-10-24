@@ -1,5 +1,5 @@
 {
-    "name": "rtxzy",
+    "name": "Davyduty",
     "version": "6.3.1",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -26,9 +26,9 @@
         "botcahx",
         "baileys"
     ],
-    "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
+    "homepage": "https://github.com/Davyduty/Davyduty",
     "author": {
-        "name": "BOTCAHX"
+        "name": "Davyduty"
     },
     "repository": {
         "type": "git",
