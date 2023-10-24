@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: rtxzy-bot
+    name: Davyduty
     env: docker
-    region: Singapore 
+    region: Kenya
     plan: free
